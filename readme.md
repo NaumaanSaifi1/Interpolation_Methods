@@ -11,7 +11,7 @@
 <p>This repository contains multiple interpolation methods implemented in a clear and structured format. Each method includes:</p>
 
 <ul>
-  <li>Code written in Python/C++ (based on implementation)</li>
+  <li>Code written in C  </li>
   <li>Proper documentation and comments</li>
   <li>Examples to demonstrate functionality</li>
 </ul>
@@ -23,7 +23,6 @@
   <li>Newton Forward Interpolation</li>
   <li>Newton Backward Interpolation</li>
   <li>Newton's Divided Difference</li>
-  <li>Spline Interpolation (if added later)</li>
 </ul>
 
 <h2 style="color: #1E90FF;">🚀 Getting Started</h2>
@@ -56,7 +55,7 @@ cd Interpolation_Methods
 
 <p>
   <strong>Naumaan Saifi</strong> <br/>
-  📧 Email: your_email@example.com <br/>
+  📧 Email: naumaansaifi7@gmail.com.com <br/>
   🌐 GitHub: <a href="https://github.com/NaumaanSaifi1">NaumaanSaifi1</a>
 </p>
 
